@@ -1,4 +1,4 @@
-# Portfolio/ civil engineering  
+# Portfolio civil engineering  
 
 This repository contains my academic and professional work related to **apartment architectural designs**, my **thesis research** and **internship experience**.  
 
