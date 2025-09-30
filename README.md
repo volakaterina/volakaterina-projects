@@ -3,15 +3,15 @@
 This repository contains my academic and professional work related to **apartment architectural designs**, my **thesis research** and **internship experience**.  
 
 ##  Repository Contents  
-🏠 **Floor Designs**
+ **Floor Designs**
 
   - Apartment layouts, structural and detail drawings  
   - Utility system integration (water supply, sewage, and drainage)  
-📑 **Thesis**
+ **Thesis**
 
   - Research paper and supporting documents  
   - Technical approach, methodology, and findings  
-💼 **Internship Documentation**
+ **Internship Documentation**
 
   - Work reports and progress logs  
   - Practical insights and learning outcomes  
